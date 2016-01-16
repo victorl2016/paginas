@@ -1,3 +1,7 @@
+/*
+Programa de java $.getScript('
+*/
+
 console.log("Hola");
 var num1;
 var num2;
